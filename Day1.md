@@ -11,6 +11,7 @@
 
 ![AI Pipeline Diagram](ai_pipeline_diagram.png)
 
+![Mental Model Diagram](mental_model_diagram.png)
 
 
 ## 🤖 How a Chatbot Works
